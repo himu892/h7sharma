@@ -13,7 +13,7 @@ function NavHeader () {
                     <li className="navItem"><a href="#" className="navLink">Home</a></li>
                     <li className="navItem"><a href="#" className="navLink">Skills</a></li>
                     <li className="navItem"><a href="#" className="navLink">Experince</a></li>
-                    <li className="navItem"><a href="#" className="navLink">Resume</a></li>
+                    <li className="navItem"><a href="/resume" className="navLink">Resume</a></li>
                     <li className="navItem"><a href="#" className="navLink">Contact</a></li>
                     <li className="navItem"><a href="#" className="navLink">About Us</a></li>
                 </ul>
