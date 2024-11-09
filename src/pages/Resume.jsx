@@ -1,7 +1,11 @@
+import TopHeader from "../components/TopHeader";
+import NavHeader from "../components/NavHeader";
+// import HeroSection from "../components/HeroSection";
 function ResumePage () {
     return(
         <>
-        <button>Hello</button>
+            <TopHeader></TopHeader>
+            <NavHeader></NavHeader>
         </>
     )
 }

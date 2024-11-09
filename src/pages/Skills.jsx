@@ -1,7 +1,9 @@
-function Skills(){
+import TopHeader from "../components/TopHeader";
+import NavHeader from "../components/NavHeader";function Skills(){
     return (
         <>
-        <div>Skills</div>
+            <TopHeader></TopHeader>
+            <NavHeader></NavHeader>
         </>
     )
 }

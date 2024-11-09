@@ -1,7 +1,10 @@
+import TopHeader from "../components/TopHeader";
+import NavHeader from "../components/NavHeader";
 function Contact(){
     return (
         <>
-        <div>Contact</div>
+            <TopHeader></TopHeader>
+            <NavHeader></NavHeader>
         </>
     )
 }
