@@ -28,8 +28,9 @@
     /* z-index: -1000000 !important; */
 }
 .heroSection-img{
+    /* position: fixed; */
     z-index: -10 !important;
 }
-/* .heroImage:hover{
-    filter: opacity(1);
-} */
+.heroName::selection{
+    background-color: red;
+}
