@@ -6,7 +6,7 @@ function About(){
         <>
             <TopHeader></TopHeader>
             <NavHeader></NavHeader>
-            <Banner></Banner>
+            <Banner currentPage={'about'}></Banner>
         </>
     )
 }

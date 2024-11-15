@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "page": "about",
+      "img": "./src/assets/img/about-github-banner.jpg"
+    },
+    {
+      "id": 2,
+      "page": "about",
+      "img": "./src/assets/img/about-coding-banner.jpg"
+    },
+    {
+      "id": 3,
+      "page": "skills",
+      "img": "./src/assets/img/skills-banner-1.jpg"
+    },
+    {
+      "id": 4,
+      "page": "skills",
+      "img": "./src/assets/img/skills-banner-2.jpg"
+    },
+    {
+      "id": 5,
+      "page": "skills",
+      "img": "./src/assets/img/skills-banner-3.jpg"
+    },
+    {
+      "id": 6,
+      "page": "skills",
+      "img": "./src/assets/img/skills-banner-4.jpg"
+    },
+    {
+      "id": 7,
+      "page": "contact",
+      "img": "./src/assets/img/contact-banner-2.jpg"
+    },
+    {
+      "id": 8,
+      "page": "contact",
+      "img": "./src/assets/img/contact-banner-3.jpg"
+    },
+    {
+      "id": 9,
+      "page": "contact",
+      "img": "./src/assets/img/contact-whiteray-banner.jpg"
+    },
+    {
+      "id": 10,
+      "page": "contact",
+      "img": "./src/assets/img/contact-yellowray-banner.jpg"
+    },
+    {
+      "id": 11,
+      "page": "experience",
+      "img": "./src/assets/img/experience-ai-2-banner.jpg"
+    },
+    {
+      "id": 12,
+      "page": "experience",
+      "img": "./src/assets/img/experience-ai-3-banner.jpg"
+    }
+  ]
+  
