@@ -4,7 +4,7 @@ function Skillscard({ icon, desc, title, iconClass }) {
   return (
     <>
       <div className="w-full flex justify-center mt-6">
-        <div className="card-container w-5/6 flex gap-5 card hover:scale-105 duration-300 ease-in-out">
+        <div className="card-container w-5/6 flex gap-5 card hover:scale-105 duration-300 ease-in-out cursor-pointer">
           <div className="logo-container group w-1/5 h-full flex justify-center items-center">
             <div className="skillsIcon html">
             <i className={`${icon} ${iconClass}`}></i>
