@@ -13,7 +13,7 @@ function HeroSection() {
         </div>
         <div className="w-1/2 heroSection-img flex justify-end ml-5">
           <img
-            src="./src/assets/img/img3.jpeg"
+            src="./src/assets/img/img3.png"
             alt=""
             className="heroImage"
             width="100%"

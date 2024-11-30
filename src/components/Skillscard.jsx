@@ -1,4 +1,3 @@
-import React from "react";
 
 function Skillscard({ icon, desc, title, iconClass }) {
   return (
